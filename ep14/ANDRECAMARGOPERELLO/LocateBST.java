@@ -1,3 +1,22 @@
+/******************************************************************************
+ *
+ * MAC0121 - Algoritmos e Estruturas de Dados I
+ * Aluno: Andre Camargo Perello
+ * Numero USP: 9912403
+ * Tarefa: Locate BST
+ * Data: 30/10/2017
+ *
+ *
+ *
+ * DECLARO QUE SOU O ÚNICO AUTOR E RESPONSÁVEL POR ESTE PROGRAMA.  TODAS AS
+ * PARTES DO PROGRAMA, EXCETO AS QUE SÃO BASEADAS EM MATERIAL FORNECIDO
+ * PELO PROFESSOR OU COPIADAS DO LIVRO OU DAS BIBLIOTECAS DE SEDGEWICK & WAYNE,
+ * FORAM DESENVOLVIDAS POR MIM.  DECLARO TAMBÉM QUE SOU RESPONSÁVEL POR TODAS
+ * AS CÓPIAS DESTE PROGRAMA E QUE NÃO DISTRIBUÍ NEM FACILITEI A DISTRIBUIÇÃO
+ * DE CÓPIAS DESTA PROGRAMA.
+ *
+ ******************************************************************************/
+
 import edu.princeton.cs.algs4.BST;
 
 public class LocateBST {
